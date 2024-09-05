@@ -189,4 +189,10 @@ nav a:hover {
 }
 
 
- 
+.form-check {
+    margin: 0 10px;
+}
+
+.input-group {
+    max-width: 600px;
+}
